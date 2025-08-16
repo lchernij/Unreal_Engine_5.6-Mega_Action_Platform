@@ -4,7 +4,7 @@ Mega Action Platform
 
 When the world needs a hero, the yellow guy shows up, shooting every monster in his path. He can jump, slide, climb walls, charge shots, and climb ladders. We hope it's enough to make it to the end!
 
-https://github.com/user-attachments/assets/7ce8900b-70f1-41b7-8c6e-b0d900ec9828
+https://github.com/user-attachments/assets/3d54e7cb-e887-479c-bd38-38466a1c75b5
 
 ## Technology
 
